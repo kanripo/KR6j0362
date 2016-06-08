@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:56.734241
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:58
 #+TITLE: 虛空藏菩薩能滿諸願最勝心陀羅尼求聞持法
 #+PROPERTY: CBETA_ID T20n1145
 #+PROPERTY: ID KR6j0362
