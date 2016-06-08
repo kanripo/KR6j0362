@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:56.734241
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:58
 #+TITLE: 虛空藏菩薩能滿諸願最勝心陀羅尼求聞持法
 #+PROPERTY: CBETA_ID T20n1145
 #+PROPERTY: ID KR6j0362
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1145
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0362_T_000-0601c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0362_T_001-0601c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1145¶
-
- 虛空藏菩薩能滿諸願最勝心陀¶
+No. 1145¶
+虛空藏菩薩能滿諸願最勝心陀¶
 羅尼求聞持法¶
 ¶
 
@@ -133,5 +132,5 @@ No.1145¶
 <pb:KR6j0362_T_001-0603a>¶
 就。復應更從初首而作。乃至七遍。縱有五¶
 逆等極重罪障。亦皆銷滅法定成就。¶
-虛空藏菩薩能滿諸願最勝心陀羅尼求聞¶
+虛空藏菩薩〔能滿…尼〕十字－【甲】能滿諸願最勝心陀羅尼求聞持丙本丁本俱有右大唐中天竺三藏輸波迦羅唐言善無畏開元五年於西明寺菩提院譯無着法師轉文三十五字，尚丁本之異本三藏之下有沙門二字，無着法師轉文六字作沙門悉達譯語沙門無着綴文筆受十四字，丁本奧書曰寬治二年十一月二十四日快禪阿闍梨受了法能滿諸願最勝心陀羅尼求聞¶
 持法
